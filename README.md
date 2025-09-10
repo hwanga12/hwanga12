@@ -19,8 +19,7 @@
 ### 📈 [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
 > 개발자들을 위한 주식 모의투자 플랫폼
 
-- Python + Flask 기반 초기 서버 구현 경험  
-- 이후 Node.js 전환: 실시간 주가 API 연동 (Alpha Vantage)  
+- 실시간 주가 API 연동 (Alpha Vantage)  
 - 캐시 구조 도입으로 API 호출 최적화  
 - 순수 SQL 쿼리 + 백엔드 라우터/컨트롤러 구조 설계  
 
@@ -47,16 +46,4 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanga12&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwanga12&show_icons=true&theme=default&hide=contribs,prs)
-
----
-
-## 📫 Contact
-
-- 📧 Email: **ghkdrkdus1@naver.com**
-- 📝 Blog: [Velog](https://www.notion.so/Projects-214d95998bd080ad8906e1334c38fa5d?source=copy_link)
-
----
-
-> 👀 깔끔한 코드, 효율적인 구조, 실용적인 기술을 좋아합니다.  
-> 함께 일하기 좋은 개발자가 되기 위해 매일 성장 중입니다. 💻
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwanga12&show_icons=true&theme=default&hide=contrib_)
