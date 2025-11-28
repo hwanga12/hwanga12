@@ -1,4 +1,4 @@
-# 안녕하세요! 황가연입니다
+# 안녕하세요 황가연입니다.
 
 백엔드 개발자로서 **Python(Django)**, **Node.js, TypeScript**와  
 **AWS 인프라**까지 폭넓은 기술을 경험하며,  
@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 주요 프로젝트
+## 주요 프로젝트
 
-### 🏟️ [Playce](https://github.com/hwanga12/Playce)
+### [Playce](https://github.com/hwanga12/Playce)
 > 위치 기반 실시간 중계 식당 플랫폼
 
 - Node.js + TypeScript + Express + TypeORM
@@ -16,7 +16,7 @@
 - EC2 + PM2 + GitHub Actions 자동 배포
 - AWS CloudWatch + k6 성능 모니터링
 
-### 📈 [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
+### [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
 > 개발자들을 위한 주식 모의투자 플랫폼
 
 - 실시간 주가 API 연동 (Alpha Vantage)  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanga12&layout=compact&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwanga12&show_icons=true&theme=default&hide=contribs,prs)
