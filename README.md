@@ -49,12 +49,12 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: **ghkdrkdus1@naver.com**
-- 📝 Blog: [Velog](https://www.notion.so/Projects-214d95998bd080ad8906e1334c38fa5d?source=copy_link)
+- Email: **ghkdrkdus1@naver.com**
+- Blog: [Velog](https://www.notion.so/Projects-214d95998bd080ad8906e1334c38fa5d?source=copy_link)
 
 ---
 
-> 👀 깔끔한 코드, 효율적인 구조, 실용적인 기술을 좋아합니다.  
-> 함께 일하기 좋은 개발자가 되기 위해 매일 성장 중입니다. 💻
+> 깔끔한 코드, 효율적인 구조, 실용적인 기술을 좋아합니다.  
+> 함께 일하기 좋은 개발자가 되기 위해 매일 성장 중입니다.
