@@ -17,7 +17,7 @@
 - AWS CloudWatch + k6 성능 모니터링
 
 ### [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
-> 개발자들을 위한 주식 모의투자 플랫폼
+> 주식 모의투자 플랫폼
 
 - 실시간 주가 API 연동 (Alpha Vantage)  
 - 캐시 구조 도입으로 API 호출 최적화  
