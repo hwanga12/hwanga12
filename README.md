@@ -45,7 +45,7 @@
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanga12&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwanga12&show_icons=true&theme=default&hide=contribs,prs)
+
 
 ---
 
