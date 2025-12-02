@@ -19,7 +19,7 @@
 - 모델 선정, 파인튜닝, 최적화, 실험 설계 및 검증
 
 ### [Playce](https://github.com/hwanga12/Playce)
-> 위치 기반 실시간 중계 식당 플랫폼
+> 위치 기반 실시간 중계 식당 웹 서비스
 
 - Node.js + TypeScript + Express + TypeORM
 - Kakao Map API, Redis 캐싱, Swagger API 문서화
@@ -27,7 +27,7 @@
 - AWS CloudWatch + k6 성능 모니터링
 
 ### [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
-> 주식 모의투자 플랫폼
+> 주식 모의투자 웹 서비스
 
 - 실시간 주가 API 연동 (Alpha Vantage)  
 - 캐시 구조 도입으로 API 호출 최적화  
