@@ -3,6 +3,10 @@
 백엔드 개발자로서 **Python(Django)**, **Node.js, TypeScript**와  **AWS 인프라**까지 폭넓은 기술을 경험하며,  
 최근에는 SSAFY에서 알고리즘 사고력과 **PyTorch** 관련 AI 역량을 키우고 있습니다.
 
+
+> 깔끔한 코드, 효율적인 구조, 실용적인 기술을 좋아합니다.  
+> 함께 일하기 좋은 개발자가 되기 위해 매일 성장 중입니다.
+
 ---
 
 ## 주요 프로젝트
@@ -60,13 +64,3 @@
 
 
 ---
-
-## Contact
-
-- Email: **ghkdrkdus1@naver.com**
-- Blog: [Velog](https://www.notion.so/Projects-214d95998bd080ad8906e1334c38fa5d?source=copy_link)
-
----
-
-> 깔끔한 코드, 효율적인 구조, 실용적인 기술을 좋아합니다.  
-> 함께 일하기 좋은 개발자가 되기 위해 매일 성장 중입니다.
