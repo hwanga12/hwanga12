@@ -1,11 +1,18 @@
 # 안녕하세요 황가연입니다.
 
-백엔드 개발자로서 **Python(Django)**, **Node.js, TypeScript**와  
-**AWS 인프라**까지 폭넓은 기술을 경험하며, 최근에는 SSAFY에서 알고리즘 사고력과 **PyTorch** 관련 AI 역량을 키우고 있습니다.
+백엔드 개발자로서 **Python(Django)**, **Node.js, TypeScript**와  **AWS 인프라**까지 폭넓은 기술을 경험하며, 
+최근에는 SSAFY에서 알고리즘 사고력과 **PyTorch** 관련 AI 역량을 키우고 있습니다.
 
 ---
 
 ## 주요 프로젝트
+
+### [SSAFY AI Challenge](https://github.com/hwanga12/SSAFY_AI_Challenge.git)
+> 이미지 기반 멀티모달 모델
+
+- Python + PyTorch + HuggingFace
+- SSAFY SSH GPU A100 (VRAM 40GB+)
+- 모델 선정, 파인튜닝, 최적화, 실험 설계 및 검증
 
 ### [Playce](https://github.com/hwanga12/Playce)
 > 위치 기반 실시간 중계 식당 플랫폼
