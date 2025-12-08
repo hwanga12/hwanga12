@@ -1,4 +1,4 @@
-# 효율성을 중시하는 백엔드 엔지니어 황가연입니다.
+# 효율성을 중시하는 백엔드 개발자 황가연입니다.
 
 ## 유연한 개발자입니다.
 1. 문제 상황을 조기에 발견하고 해결한 경험이 있습니다.
@@ -60,11 +60,6 @@
 - **Infra & DevOps**: AWS EC2, RDS, S3, PM2, GitHub Actions  
 - **Monitoring**: AWS CloudWatch, k6  
 - **Tools**: Swagger, Postman, Git, ESLint, Prettier  
-
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanga12&layout=compact&theme=default)
 
 
 ---
