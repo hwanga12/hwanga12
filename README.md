@@ -15,6 +15,15 @@
 
 ## 주요 프로젝트
 
+### [SSAIET](https://github.com/hwanga12/SSAIET.git)
+> 점심 선택 기반 개인 맞춤 저녁 추천 & 식단 관리 서비스
+
+- Python + PyTorch + VUE + Django
+- GPT API 연동 및 프롬프트 설계
+- 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
+- PyTorch 기반 딥러닝 회귀 모델 개발
+- 체중 변화 예측 Rule-based → ML 전환 구조 설계
+
 ### [SSAFY AI Challenge](https://github.com/hwanga12/SSAFY_AI_Challenge.git)
 > 이미지 기반 멀티모달 모델
 
@@ -42,7 +51,7 @@
 ## 기술 스택
 - **Backend**: Python (Django), Node.js (Express, TypeScript, TypeORM)  
 - **AI / Data Analysis**: Numpy, Pandas, Seaborn, Matplotlib, Jupyter, PyTorch  
-- **Infra & DevOps**: AWS EC2, RDS, S3, PM2, GitHub Actions  
+- **Infra & DevOps**: AWS EC2, RDS, S3, PM2, GitHub Actions, Jenkins  
 - **Monitoring**: AWS CloudWatch, k6  
 - **Tools**: Swagger, Postman, Git, ESLint, Prettier  
 
