@@ -16,7 +16,7 @@
 - 통합 검색 API 구조 개선을 통해 **평균 응답시간 504ms 달성**
 - 캐시 구조 설계로 외부 API 호출 최소화 및 서버 부하 감소
 
-### System Reliability & Scalability
+### System Reliability
 
 - k6 기반 부하 테스트 수행 **요청 수 10배 증가 상황에서 병목 구간 분석 및 성능 개선**
 - Docker 기반 서비스 컨테이너화로 **실행 환경 일관성 확보**
