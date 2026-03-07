@@ -7,7 +7,7 @@
 **성능 개선, 확장성 있는 서비스 구조, 데이터 기반 시스템 설계**에 관심을 가지고 있습니다.
 
 ---
-
+  
 # Engineering Highlights
 
 ### Performance Optimization
@@ -28,7 +28,9 @@
 - 데이터 전처리 및 **모델 학습 실험 설계 및 검증**
 - 기존 **Rule 기반 추천 로직을 ML 기반 예측 구조로 개선**
 
+
 ---
+
 
 # Tech Stack
 
@@ -50,35 +52,36 @@ CloudWatch · k6
 # Project Experience
 
 ### [SSAIET](https://github.com/hwanga12/SSAIET.git)
-> 점심 선택 기반 개인 맞춤 저녁 추천 & 식단 관리 서비스
+> 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
 
-- Python + PyTorch + VUE + Django
+- Python · PyTorch · Vue · Django
 - GPT API 연동 및 프롬프트 설계
 - 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
 - PyTorch 기반 딥러닝 회귀 모델 개발
-- 체중 변화 예측 Rule-based → ML 전환 구조 설계
+- 체중 변화 예측 Rule-based → ML 기반 구조 전환 설계
 
 ### [SSAFY AI Challenge](https://github.com/hwanga12/SSAFY_AI_Challenge.git)
 > 이미지 기반 멀티모달 모델
 
-- Python + PyTorch + HuggingFace
-- SSAFY SSH GPU A100 (VRAM 40GB+)
-- 모델 선정, 파인튜닝, 최적화, 실험 설계 및 검증
+- Python · PyTorch · HuggingFace
+- SSAFY SSH GPU A100 (VRAM 40GB+) 환경 학습
+- 모델 선정 · 파인튜닝 · 최적화 · 실험 설계 및 검증
 
 ### [Playce](https://github.com/hwanga12/Playce)
 > 위치 기반 실시간 중계 식당 웹 서비스
 
-- Node.js + TypeScript + Express + TypeORM
-- Kakao Map API, Redis 캐싱, Swagger API 문서화
-- EC2 + PM2 + GitHub Actions 자동 배포
-- AWS CloudWatch + k6 성능 모니터링
+- Node.js · TypeScript · Express · TypeORM
+- Kakao Map API · Redis 캐싱 · Swagger API 문서화
+- EC2 · PM2 · GitHub Actions 자동 배포
+- AWS CloudWatch · k6 기반 성능 모니터링
 
 ### [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
 > 주식 모의투자 웹 서비스
 
-- 실시간 주가 API 연동 (Alpha Vantage)  
-- 캐시 구조 도입으로 API 호출 최적화  
-- 순수 SQL 쿼리 + 백엔드 라우터/컨트롤러 구조 설계  
+- 실시간 주가 API 연동 (Alpha Vantage)
+- 캐시 구조 도입으로 API 호출 최적화
+- 순수 SQL 쿼리 기반 데이터 처리
+- 백엔드 Router · Controller 구조 설계
 
 ---
 
