@@ -11,19 +11,20 @@
 # Engineering Highlights
 
 ### Performance Optimization
-
 - Redis 캐싱 및 TTL 전략을 적용하여 **API 응답시간 12s → 1.16s (약 90% 개선)**
 - 통합 검색 API 구조 개선을 통해 **평균 응답시간 504ms 달성**
 - 캐시 구조 설계로 외부 API 호출 최소화 및 서버 부하 감소
 
-### System Reliability
+### Backend Engineering
+- FastAPI 기반 REST API 설계 및 서비스 로직 구현
+- Redis 캐시 구조 설계 및 비동기 처리 구조 적용
 
+### System Reliability
 - k6 기반 부하 테스트 수행 **요청 수 10배 증가 상황에서 병목 구간 분석 및 성능 개선**
 - Docker 기반 서비스 컨테이너화로 **실행 환경 일관성 확보**
 - Jenkins · GitHub Actions 기반 **CI/CD 자동 배포 파이프라인 구축**
 
 ### AI / Data Engineering
-
 - PyTorch 기반 **체중 변화 예측 회귀 모델 개발**
 - 데이터 전처리 및 **모델 학습 실험 설계 및 검증**
 - 기존 **Rule 기반 추천 로직을 ML 기반 예측 구조로 개선**
