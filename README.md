@@ -52,7 +52,16 @@ CloudWatch · k6
 
 # Project Experience
 
-### [SSAIET](https://github.com/hwanga12/SSAIET.git)
+### [이음](https://github.com/hwanga12/SSAIET.git)
+> 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
+
+- Python · PyTorch · Vue · Django
+- GPT API 연동 및 프롬프트 설계
+- 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
+- PyTorch 기반 딥러닝 회귀 모델 개발
+- 체중 변화 예측 Rule-based → ML 기반 구조 전환 설계
+
+### [수확행](https://github.com/hwanga12/SSAIET.git)
 > 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
 
 - Python · PyTorch · Vue · Django
@@ -76,13 +85,14 @@ CloudWatch · k6
 - EC2 · PM2 · GitHub Actions 자동 배포
 - AWS CloudWatch · k6 기반 성능 모니터링
 
-### [ProgramerStocks](https://github.com/hwanga12/ProgramerStocks)
-> 주식 모의투자 웹 서비스
+### [SSAIET](https://github.com/hwanga12/SSAIET.git)
+> 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
 
-- 실시간 주가 API 연동 (Alpha Vantage)
-- 캐시 구조 도입으로 API 호출 최적화
-- 순수 SQL 쿼리 기반 데이터 처리
-- 백엔드 Router · Controller 구조 설계
+- Python · PyTorch · Vue · Django
+- GPT API 연동 및 프롬프트 설계
+- 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
+- PyTorch 기반 딥러닝 회귀 모델 개발
+- 체중 변화 예측 Rule-based → ML 기반 구조 전환 설계
 
 ---
 
