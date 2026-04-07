@@ -4,7 +4,7 @@
 **AI 모델 개발, 백엔드 API 설계, 인프라 구축 및 운영**까지 경험하며 데이터 기반 서비스 개발 역량을 확장하고 있습니다.
 
 현재는 프로그래머스 데브코스를 거쳐 삼성청년SW·AI아카데미(SSAFY)에서 AI, Backend, Infra 영역의 기술을 학습하며  
-성능 개선, 확장성 있는 서비스 구조, 데이터 기반 시스템 설계에 관심을 가지고 있습니다.
+성능 개선, 확장성 있는 서비스 구조, 데이터 기반 시스템 설계에 관심이 있습니다.
 
 ---
   
@@ -52,27 +52,30 @@ CloudWatch · k6
 
 # Project Experience
 
-### [이음](https://github.com/hwanga12/SSAIET.git)
-> 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
+### [이음](https://github.com/hwanga12/EEUM.git)
+> 독거노인 안전, 정서 문제 해결 Edge AI 낙상 감지 가족 음성 기반 스마트 헬스케어 플랫폼
 
-- Python · PyTorch · Vue · Django
-- GPT API 연동 및 프롬프트 설계
-- 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
-- PyTorch 기반 딥러닝 회귀 모델 개발
-- 체중 변화 예측 Rule-based → ML 기반 구조 전환 설계
+- 역할: BE · FE · Infra
+- Spring Boot · Vue · Kotlin · YOLOv8 · AWS EC2 · Jenkins
+- Backend, Frontend, Infrastructure 설계 및 개발 참여
+- 서비스 아키텍처 설계 및 배포 자동화 구축
+- IoT 이벤트 처리 시스템 구축
+- 메세지 조회 API 병목 해결, 비동기 처리를 통한 AI 성능 향상
 
-### [수확행](https://github.com/hwanga12/SSAIET.git)
-> 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
+### [수확행](https://github.com/hwanga12/SoohwakHang.git)
+> 스마트 농장 무인 관제 및 AI 진단 로봇 시뮬레이션 시스템
 
-- Python · PyTorch · Vue · Django
-- GPT API 연동 및 프롬프트 설계
-- 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
-- PyTorch 기반 딥러닝 회귀 모델 개발
-- 체중 변화 예측 Rule-based → ML 기반 구조 전환 설계
+- 역할: BE · FE · ROS
+- Python · React · ROS2 · Gazebo
+- Web(React/FastAPI) ↔ ROS2 간 이기종 통신 브리지 설계 및 구현
+- 자율주행 Nav2 파라미터 튜닝 및 TF(좌표계) 트리 트러블슈팅
+- AI 확정 추론 및 Rule Engine 기반 IoT 자동 처방 로직 개발
+- 코딩 에이전트를 활용해 단기간 새로운 분야 구현
 
 ### [SSAFY AI Challenge](https://github.com/hwanga12/SSAFY_AI_Challenge.git)
-> 이미지 기반 멀티모달 모델
+> 이미지 기반 멀티모달 모델 구현
 
+- 역할: AI
 - Python · PyTorch · HuggingFace
 - SSAFY SSH GPU A100 (VRAM 40GB+) 환경 학습
 - 모델 선정 · 파인튜닝 · 최적화 · 실험 설계 및 검증
@@ -80,6 +83,7 @@ CloudWatch · k6
 ### [Playce](https://github.com/hwanga12/Playce)
 > 위치 기반 실시간 중계 식당 웹 서비스
 
+- 역할: BE · Infra
 - Node.js · TypeScript · Express · TypeORM
 - Kakao Map API · Redis 캐싱 · Swagger API 문서화
 - EC2 · PM2 · GitHub Actions 자동 배포
@@ -88,6 +92,7 @@ CloudWatch · k6
 ### [SSAIET](https://github.com/hwanga12/SSAIET.git)
 > 점심 선택 기반 개인 맞춤 저녁 추천 · 식단 관리 서비스
 
+- 역할: BE
 - Python · PyTorch · Vue · Django
 - GPT API 연동 및 프롬프트 설계
 - 점심(Meal) · 저녁(Dinner) 도메인 FE · BE 구현
