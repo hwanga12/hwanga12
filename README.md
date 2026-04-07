@@ -36,16 +36,21 @@
 # Tech Stack
 
 ### Backend
-Python · Django · Node.js · Express · TypeScript · TypeORM
+Python · Spring · Django · Node.js · Express · TypeScript · TypeORM
+
+### Frontend
+Vue · React
 
 ### AI / Data
-PyTorch · Pandas · NumPy · Matplotlib
+PyTorch · Pandas · NumPy
 
 ### Infra / DevOps
 AWS EC2 · RDS · S3 · Docker · Jenkins · GitHub Actions
 
 ### Monitoring / Testing
 CloudWatch · k6
+
+
 
 ---
 
