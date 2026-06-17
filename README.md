@@ -69,7 +69,6 @@ k6 · CloudWatch · Grafana · Prometheus · Loki
 - 휴지통 조회 API 성능 개선: 23.6s -> 0.4s
 - 전송량 개선: 2.6GB -> 54MB
 - 운영 중인 서비스로 소스코드는 private 관리
-- [Portfolio Case Study](노션링크)
 - [App Store](앱스토어링크)
 - [Google Play](구글플레이링크)
 
