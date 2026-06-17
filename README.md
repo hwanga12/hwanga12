@@ -69,8 +69,8 @@ k6 · CloudWatch · Grafana · Prometheus · Loki
 - 휴지통 조회 API 성능 개선: 23.6s -> 0.4s
 - 전송량 개선: 2.6GB -> 54MB
 - 운영 중인 서비스로 소스코드는 private 관리
-- [App Store](앱스토어링크)
-- [Google Play](구글플레이링크)
+- [App Store](https://apps.apple.com/kr/app/dayori-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94-%ED%95%84%EA%B8%B0/id6764240658)
+- [Google Play](https://play.google.com/store/apps/details?id=com.dayori.app&pcampaignid=web_share)
 
 ### [EEUM](https://github.com/hwanga12/EEUM)
 > 독거노인 안전 모니터링 및 가족 음성 기반 스마트 케어 플랫폼
