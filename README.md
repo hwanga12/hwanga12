@@ -1,39 +1,16 @@
-# 출시와 성능 개선 경험을 가진 백엔드 엔지니어 황가연입니다.
+# [황가연] Backend · DevOps
 
-Spring Boot, Node.js, FastAPI 기반으로 서비스를 구현하며  
-반복 조회, 대용량 응답, 캐싱, AI 처리 지연, 배포 흐름에서 발생하는 병목을 수치로 확인하고 개선해 왔습니다.
+### 데이터 설계 역량:
+올인원 다이어리 'Dayori' - PostgreSQL·MongoDB·Redis·S3 데이터 성격에 맞게 사용, DTO Projection 인덱스를 적용 하여 휴지통 조회 API 응답 시간 (23.6초 -> 0.4초) 개선 경험
 
-- Dayori: App Store / Google Play 출시 서비스 백엔드 개발
-- Dayori: 휴지통 조회 API 23.6s -> 0.4s, 전송량 2.6GB -> 54MB 개선
-- Playce: 중계 일정 조회 API 12.49s -> 1.16s 개선
-- EEUM: 메시지 조회 API 17.21s -> 58.6ms 개선
-- 수확행: FastAPI, ROS2, MQTT, YOLOv8 기반 Web-Robot-AI-IoT 흐름 구현
+#### 성능 튜닝 역량:
+스포츠 중계 지도 서비스 'Playce' - Redis 캐시 키 설계·인증 흐름 개선 (중계 일정 조회 12.49초 -> 1.16초)
+스마트 헬스 케어 서비스 'EEUM' - JPA N+1을 Fetch Join으로 해결(메시지 조회 17.21초 58.6ms)
 
----
+### DevOps 역량:
+스마트 헬스 케어 서비스 'EEUM' - AWS EC2·RDS·S3 운영 환경 구축, Jenkins로 FE/BE 배포 분리 및 Docker 이미지 정리, k6 부하 테스트 Grafana·Prometheus·Loki 모니터링
 
-# Engineering Highlights
 
-### Performance Optimization
-- Dayori에서 DTO Projection, Pageable, 인덱스를 적용해 휴지통 조회 API를 **23.6s -> 0.4s**로 개선
-- Playce에서 Redis 캐싱과 캐시 무효화 전략을 적용해 중계 일정 조회 API를 **12.49s -> 1.16s**로 개선
-- EEUM에서 JPA N+1 문제를 FETCH JOIN과 페이지네이션으로 개선해 메시지 조회 API를 **17.21s -> 58.6ms**로 개선
-
-### Backend Engineering
-- Spring Boot 기반 사용자, 상점, 에셋, 메시지 도메인 API 개발
-- PostgreSQL, MongoDB, Redis, S3를 데이터 특성에 따라 분리한 저장 구조 설계
-- FastAPI 기반 로봇 관제, AI 추론, IoT 명령 API 구현
-
-### Infra / Reliability
-- AWS EC2, RDS, S3 기반 서비스 배포 및 운영 경험
-- Docker, Nginx, Jenkins 기반 배포 환경 구성
-- k6, Grafana, CloudWatch를 활용한 부하 테스트 및 성능 지표 확인
-
-### AI / Domain Integration
-- YOLOv8 기반 병해 진단 결과를 Rule Engine 기반 처방 명령으로 연결
-- AI 음성 메시지 처리에서 캐싱과 비동기 처리로 응답 지연 개선
-- PyTorch 기반 회귀 모델과 GPT API를 활용한 추천 기능 구현 경험
-
----
 
 # Tech Stack
 
