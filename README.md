@@ -1,7 +1,9 @@
 # 황가연 | Java/Spring Backend Developer
 
 Java와 Spring Boot를 중심으로 도메인 API를 개발하고, 데이터 조회 구조와 Redis 캐시 정합성, 배포 흐름을 개선해 왔습니다.
+
 AI 에이전트에 기존 코드와 API 규칙을 제공해 기능 구현·오류 분석·테스트에 활용하며, 변경 결과를 로그와 테스트로 확인한 경험이 있습니다.
+
 Dayori에서는 백엔드·인프라 담당이자 부팀장으로 참여해 실제 앱 출시 및 운영까지 경험했습니다.
 
 ## Core Stack
@@ -17,7 +19,8 @@ AWS · Docker · Nginx · Jenkins · JUnit · k6
 ### Dayori
 
 > 일정·필기·에셋 마켓을 통합한 대학생 디지털 다이어리  
-> App Store·Google Play 출시
+> App Store·Google Play 출시  
+> 운영 중인 서비스로 소스코드는 비공개로 관리하고 있습니다.
 
 - **6인 팀 / Backend·Infra / 부팀장** — 사용자·상점·에셋 API와 PostgreSQL·MongoDB·Redis·S3 저장 구조 설계
 - DTO Projection·페이지네이션·인덱스를 적용해 k6 50VU의 동일 요청 횟수 기준 휴지통 조회 평균 응답 시간 **23.6초 → 0.4초**, 전송량 **2.6GB → 54MB**로 개선
@@ -25,7 +28,6 @@ AWS · Docker · Nginx · Jenkins · JUnit · k6
 
 [App Store](https://apps.apple.com/kr/app/dayori-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94-%ED%95%84%EA%B8%B0/id6764240658) · [Google Play](https://play.google.com/store/apps/details?id=com.dayori.app)
 
-> 운영 중인 서비스로 소스코드는 비공개로 관리하고 있습니다.
 
 ---
 
